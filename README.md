@@ -216,3 +216,5 @@ It's a hands-on way to learn:
 Built with ❤️ using **Python** and **Tkinter**.
 
 ---
+
+<!-- session:106f1ad6 -->
